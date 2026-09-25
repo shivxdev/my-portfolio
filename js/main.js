@@ -136,7 +136,7 @@ function loadSocialLinks() {
 
     const heroInstagram =
         document.getElementById("heroInstagram");
-
+        
 
     if (heroGithub) {
         heroGithub.href = links.github;
@@ -149,7 +149,13 @@ function loadSocialLinks() {
     if (heroInstagram) {
         heroInstagram.href = links.instagram;
     }
+const contactGithub = document.getElementById("contactGithub");
+const contactLinkedin = document.getElementById("contactLinkedin");
+const contactInstagram = document.getElementById("contactInstagram");
 
+if (contactGithub) contactGithub.href = links.github;
+if (contactLinkedin) contactLinkedin.href = links.linkedin;
+if (contactInstagram) contactInstagram.href = links.instagram;
 
     /* FOOTER */
 
