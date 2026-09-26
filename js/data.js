@@ -35,9 +35,9 @@ const portfolioData = {
 
     socialLinks: {
 
-        github: "#",
+        github: "https://github.com/shivxdev",
 
-        linkedin: "#",
+        linkedin: "https://www.linkedin.com/in/shivam-kumar-92b965380 ",
 
         instagram: "#"
 
