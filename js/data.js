@@ -158,28 +158,28 @@ const portfolioData = {
         },
 
 
-        {
-            title: "AgroConnect",
+        // {
+        //     title: "AgroConnect",
 
-            category: "Web Platform",
+        //     category: "Web Platform",
 
-            description:
-                "A digital platform concept for connecting farmers with verified buyers.",
+        //     description:
+        //         "A digital platform concept for connecting farmers with verified buyers.",
 
-            image:
-                "assets/projects/agroconnect.png",
+        //     image:
+        //         "assets/projects/agroconnect.png",
 
-            technologies: [
-                "React",
-                "Python",
-                "FastAPI",
-                "PostgreSQL"
-            ],
+        //     technologies: [
+        //         "React",
+        //         "Python",
+        //         "FastAPI",
+        //         "PostgreSQL"
+        //     ],
 
-            github: "#",
+        //     github: "#",
 
-            live: "#"
-        },
+        //     live: "#"
+        // },
 
 
         {
@@ -191,7 +191,7 @@ const portfolioData = {
                 "A centralized web-based platform for organizational training,competency development , knowledge sharing and capacity building",
 
             image:
-                "assets/projects/oceaniq.png",
+                "assets/projects/connect.png",
 
             technologies: [
                 "HTML",
@@ -199,7 +199,7 @@ const portfolioData = {
                 "JavaScript"
             ],
 
-            github: "https://shivxdev.github.io/capacity-connect/",
+            github: "#",
 
             live: "https://shivxdev.github.io/capacity-connect/"
         }
