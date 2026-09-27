@@ -24,7 +24,7 @@ const portfolioData = {
             "assets/images/profile-placeholder.png",
 
         email:
-            "yourmail@example.com"
+            "ssshiv0001@gmail.com"
 
     },
 
