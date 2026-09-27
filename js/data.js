@@ -154,7 +154,7 @@ const portfolioData = {
 
             github: "#",
 
-            live: "#"
+            live: "https://shivxdev.github.io/Attendance-management-system/"
         },
 
 
