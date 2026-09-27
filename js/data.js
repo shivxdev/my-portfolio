@@ -214,7 +214,7 @@ const portfolioData = {
     stats: [
 
         {
-            number: "03+",
+            number: "02+",
             label: "Projects"
         },
 
