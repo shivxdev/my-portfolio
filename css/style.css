@@ -548,42 +548,60 @@ section {
     opacity: 0.13;
 }
 
+/* =========================
+   HERO PROFILE IMAGE FRAME
+   ========================= */
+
 .profile-image-container {
     position: relative;
 
     width: 410px;
-    height: 480px;
+    height: 460px;
 
     overflow: hidden;
 
     display: flex;
-
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
 
     border-radius: 45% 45% 15% 15%;
 
-    background: rgba(255, 255, 255, 0.02);
+    background: #0d141b;
+
+    border: 1px solid rgba(255, 255, 255, 0.08);
+
+    box-shadow:
+        0 25px 70px rgba(0, 0, 0, 0.35),
+        0 0 60px rgba(0, 217, 255, 0.08);
 }
+
+
+/* ACTUAL IMAGE */
 
 .profile-image {
     width: 100%;
     height: 100%;
 
-    object-fit: contain;
+    display: block;
 
-    object-position: center bottom;
+    object-fit: cover;
 
-    transition: transform 0.5s ease;
+    object-position: center center;
 
     position: relative;
-
     z-index: 2;
+
+    transition: transform 0.5s ease;
 }
+
+
+/* HOVER */
 
 .profile-wrapper:hover .profile-image {
-    transform: translateY(-8px) scale(1.02);
+    transform: scale(1.04);
 }
+
+
 
 
 /* =========================================================
