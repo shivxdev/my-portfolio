@@ -56,11 +56,11 @@ const portfolioData = {
             category: "Programming"
         },
 
-        {
-            name: "DSA",
-            short: "DSA",
-            category: "Programming"
-        },
+        // {
+        //     name: "DSA",
+        //     short: "DSA",
+        //     category: "Programming"
+        // },
 
         {
             name: "HTML5",
@@ -116,11 +116,11 @@ const portfolioData = {
             category: "Tools"
         },
 
-        {
-            name: "Node.js",
-            short: "Node",
-            category: "Backend"
-        }
+        // {
+        //     name: "Node.js",
+        //     short: "Node",
+        //     category: "Backend"
+        // }
 
     ],
 
