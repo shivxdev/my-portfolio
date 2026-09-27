@@ -183,12 +183,12 @@ const portfolioData = {
 
 
         {
-            title: "OceanIQ",
+            title: "connect-capacity",
 
-            category: "Forecasting Platform",
+            category: "Web Application",
 
             description:
-                "A freight forecasting and decision-support interface for maritime operations.",
+                "A centralized web-based platform for organizational training,competency development , knowledge sharing and capacity building",
 
             image:
                 "assets/projects/oceaniq.png",
@@ -199,9 +199,9 @@ const portfolioData = {
                 "JavaScript"
             ],
 
-            github: "#",
+            github: "https://shivxdev.github.io/capacity-connect/",
 
-            live: "#"
+            live: "https://shivxdev.github.io/capacity-connect/"
         }
 
     ],
